@@ -1,4 +1,4 @@
-# A-B-Test-
+# A-B-Test
 
 This project is part of Udacity' advanced data analysis nanodegree 
 
