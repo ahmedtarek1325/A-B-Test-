@@ -3,7 +3,7 @@ This project is done as a part of Udacity's third project in Advanced Data Analy
 
 
 #### Dataset 
-- The used data set was ProsperDataLoan one of the data set options. You can find the download 
+- The used data set was ProsperDataLoan one of <a href="https://docs.google.com/document/d/e/2PACX-1vQmkX4iOT6Rcrin42vslquX2_wQCjIa_hbwD0xmxrERPSOJYDtpNc_3wwK_p9_KpOsfA6QVyEHdxxq7/pub">the data set options</a>. You can find the download 
 link <a href="https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&amp;sa=D&amp;ust=1581581520570000">here</a>. 
 - I have added a csv file named ”tidy_loan.csv” that file has all the 
 outliers deleted in addition it includes only the features used in the finalpresentation.inpy 
@@ -21,6 +21,4 @@ customer has a prsoper score equals to 10 – from the best cutomers –.
 - Find at the end that there is a threeshold for accepting or rejecting the loan request which is 
 depednt on both the loan amount and customer prinicpal Payments. Where for a loan to be 
 completed, the customer has to have principal payments greater than the loan amount by 
-one thousand dollars   
-#### Note
-For a fast recap on my work, you can find the presentation attached. 
+one thousand dollars.
