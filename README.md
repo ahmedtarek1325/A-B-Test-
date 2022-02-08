@@ -4,7 +4,7 @@ This project is done as a part of Udacity's third project in Advanced Data Analy
 
 #### Dataset 
 - The used data set was ProsperDataLoan one of the data set options. You can find the download 
-link <href="https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&amp;sa=D&amp;ust=1581581520570000">here</a>. 
+link <a href="https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&amp;sa=D&amp;ust=1581581520570000">here</a>. 
 - I have added a csv file named ”tidy_loan.csv” that file has all the 
 outliers deleted in addition it includes only the features used in the finalpresentation.inpy 
 
