@@ -22,6 +22,5 @@ customer has a prsoper score equals to 10 – from the best cutomers –.
 depednt on both the loan amount and customer prinicpal Payments. Where for a loan to be 
 completed, the customer has to have principal payments greater than the loan amount by 
 one thousand dollars   
-
-
-
+#### Note
+For a fast recap on my work, you can find the presentation attached. 
