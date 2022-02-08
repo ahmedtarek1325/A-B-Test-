@@ -4,8 +4,8 @@ This project is done as a part of Udacity's third project in Advanced Data Analy
 
 #### Dataset 
 - The used data set was ProsperDataLoan one of the data set options. You can find the download 
-link here. 
-- You would also note that I have added a cs file named ”tidy_loan.csv” that file has all the 
+link <href="https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&amp;sa=D&amp;ust=1581581520570000">here</a>. 
+- I have added a csv file named ”tidy_loan.csv” that file has all the 
 outliers deleted in addition it includes only the features used in the finalpresentation.inpy 
 
  
@@ -22,11 +22,6 @@ customer has a prsoper score equals to 10 – from the best cutomers –.
 depednt on both the loan amount and customer prinicpal Payments. Where for a loan to be 
 completed, the customer has to have principal payments greater than the loan amount by 
 one thousand dollars   
-#### Presentation  
-- I Tried to make the presentation smooth by asking questions and answering it in the 
-following slide  
-- The presentation starts by a very qualitative way to see if the loan’d be accepted or rejected 
-then as slides pass, the quantitaive ways to determine the outcome loan status has been 
-intorduced  
+
 
 
